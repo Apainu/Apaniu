@@ -4,15 +4,11 @@
 ### 联系方式
 <table border='0'>
   <tr>
-    <td width="75%>
+  
                <h1>文清<h1>
                <p><b>Tel:18758813963<b><p>
                <p><b>Email:2027888265@qq.com<b><p>
                
          </td>
          <td width="25%">
-         <img src="/1588040865328.jpg" width="100%"
-         </td>
-         </tr>
-         </table>
-
+       
