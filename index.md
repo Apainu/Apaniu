@@ -12,8 +12,8 @@
     </td>
   </tr>
 </table>
-## 信号与系统实验作业
--【实验】（https://github.com/Apainu/Apaniu）
+## 信号与系统实践
+  -【实验】（https://github.com/Apainu/Apaniu）
               
               
                
